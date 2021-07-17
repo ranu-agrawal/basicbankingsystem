@@ -7,13 +7,13 @@ View all Customers .
 
 Youtube link : https://www.youtube.com/watch?v=LuDA_LzsGrM
 
-## Built With
+### Built With
 - Mongodb
 - Express
 - React
 - Nodejs
 
-# Getting Started
+### Getting Started
 1. Get a clone of the repo by executing the following commmands:
 ```
     git clone https://github.com/ranu-agrawal/basicbankingsystem.git
@@ -35,8 +35,19 @@ Youtube link : https://www.youtube.com/watch?v=LuDA_LzsGrM
     npm start
 ```
 
-# Contribute
+### Contribute
 Contributions, issues and feature requests are welcome!
+
+### Reach out
+
+[@ranu-agrawal:](https://github.com/ranu-agrawal)
+[![LinkedIn][2.2]][2]
+
+[2.2]: https://user-images.githubusercontent.com/26264600/88994287-99226500-d31a-11ea-9a80-a91afd654777.png
+
+[2]: https://www.linkedin.com/in/ranu-agrawal/ 
+
+Email: ranuagrawal0983@gmail.com
 
 # Show your support:
 Give a ⭐️ if you find this repo useful!
